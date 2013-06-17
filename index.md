@@ -20,10 +20,10 @@ mode        : selfcontained # {standalone, draft}
 ### All aspects of a MOOC must scale to thousands
 
 ---
-<img src="assets/img/ai_pic.png" height="1000px" width="1200px" class="center"/>
+<img src="assets/img/ai_pic.png" height="800px" width="900px" class="center"/>
 
 ---
-<img src="assets/img/mitx_pic.png" height="1000px" width="1200px" class="center"/>
+<img src="assets/img/mitx_pic.png" height="800px" width="900px" class="center"/>
 
 ---
 ## Remaining Problems
