@@ -3,7 +3,7 @@ title       : An Integrated Framework for the Grading of Freeform Responses
 subtitle    : 
 author      : Vik Paruchuri/Piotr Mitros
 job         : edX
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+framework   : io2012       # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
