@@ -56,6 +56,8 @@ mode        : selfcontained # {standalone, draft}
 <img src="assets/img/router.png" height="500px" width="700px" class="center"/>
 
 ---
+
+---
 ## Self Assessment
 * Self assessment allows students to answer a question, see a rubric, and rate themselves.
   * Requires no grading effort from course staff.
