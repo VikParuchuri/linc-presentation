@@ -103,4 +103,7 @@ Student Submission  |  Student Self-Assesses | External Grader Results
 <img src="assets/img/submission_box_new.png" height="500px" width="300px"/> | <img src="assets/img/self_assessment_rate_new.png" height="500px" width="300px"/> | <img src="assets/img/grader_result_box_new.png" height="500px" width="300px"/>
 
 ---
+## Current/Future Status
+
+---
 ## Questions?
