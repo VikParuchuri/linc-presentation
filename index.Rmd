@@ -10,8 +10,6 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 ```{r echo=FALSE, warning=FALSE, results='hide', message=FALSE}
-wd="/home/vik/vikparuchuri/linc-presentation"
-setwd(wd)
 ```
 ## What is edX?
 <img src="assets/img/what_is_edx.png" height="500px" width="700px" class="center"/>
@@ -40,11 +38,23 @@ setwd(wd)
 ---
 ## Approaches
 
+---
+## Approaches
+
 ### Portfolios
 ### Artificial intelligence
 ### Self-assessment
 ### Peer assessment
 ### Instructor/TA
+
+---
+## Approaches
+
+### Portfolios
+### *Artificial intelligence*
+### *Self-assessment*
+### *Peer assessment*
+### *Instructor/TA*
 
 ---
 ## Goals

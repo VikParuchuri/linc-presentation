@@ -38,11 +38,23 @@ mode        : selfcontained # {standalone, draft}
 ---
 ## Approaches
 
+---
+## Approaches
+
 ### Portfolios
 ### Artificial intelligence
 ### Self-assessment
 ### Peer assessment
 ### Instructor/TA
+
+---
+## Approaches
+
+### Portfolios
+### *Artificial intelligence*
+### *Self-assessment*
+### *Peer assessment*
+### *Instructor/TA*
 
 ---
 ## Goals
